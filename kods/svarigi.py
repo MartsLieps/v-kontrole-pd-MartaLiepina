@@ -1,1 +1,1 @@
-print("Dzīve nekādā veidā nav iedomājama bez git")
+print("Reti kas dzīvē ir svarīgāks par versiju kontroli")
